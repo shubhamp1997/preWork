@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://drive.google.com/file/d/1aRSPrjp7L3l5rnMh5QxBtvvgN1oolKaP/view?usp=sharing
+https://i.imgur.com/g61jdXU.gifv
 
 
 ## Notes
